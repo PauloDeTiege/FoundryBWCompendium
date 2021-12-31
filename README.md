@@ -25,3 +25,8 @@ I haven't figured out yet how to properly install these, so the current method i
 2. Navigate to your Foundry install packs subfolder. For example: /home/foundry/foundrydata/Data/worlds/YourWorldHere/packs
 3. Replace the \*.db files there with the ones from this GitHub
 4. Fully restart your server; i.e. reloading your world is not enough, you must reboot your Foundry server.
+
+## Current Status
+
+- All skills and traits from BWG should be coded in; however, it appears their attributes haven't been implemented correctly (root stats and types).
+- Information from the Codex is not fully implemented.
