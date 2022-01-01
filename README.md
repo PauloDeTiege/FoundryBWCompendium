@@ -23,7 +23,7 @@ I haven't figured out yet how to properly install these, so the current method i
     - Orc Traits
     - Ranged Weapons
 2. Navigate to your Foundry install packs subfolder. For example: /home/foundry/foundrydata/Data/worlds/YourWorldHere/packs
-3. Replace the \*.db files there with the ones from this GitHub
+3. Replace the respective \*.db files there with the ones from this GitHub
 4. Fully restart your server; i.e. reloading your world is not enough, you must reboot your Foundry server.
 
 ## Current Status
