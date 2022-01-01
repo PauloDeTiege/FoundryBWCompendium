@@ -28,5 +28,5 @@ I haven't figured out yet how to properly install these, so the current method i
 
 ## Current Status
 
-- All skills and traits from BWG should be coded in; however, it appears their attributes haven't been implemented correctly (root stats and types).
 - Information from the Codex is not fully implemented.
+- Spells are not included.
