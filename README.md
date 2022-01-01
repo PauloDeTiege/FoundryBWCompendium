@@ -8,6 +8,8 @@ This is a set of Compendiums for Foundry Virtual Tabletop that are compatible wi
 
 ## Installation
 
+**N.B. Always back up your files before making changes!**
+
 I haven't figured out yet how to properly install these, so the current method is to do so manually. I recommend the following procedure:
 
 1. Make a the following empty compendiums in your Burning Wheel FoundryVTT world:
