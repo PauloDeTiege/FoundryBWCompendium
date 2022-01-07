@@ -10,25 +10,12 @@ This is a set of Compendiums for Foundry Virtual Tabletop that are compatible wi
 
 **N.B. Always back up your files before making changes!**
 
-I haven't figured out yet how to properly install these, so the current method is to do so manually. I recommend the following procedure:
-
-1. Make a the following empty compendiums in your Burning Wheel FoundryVTT world:
-    - Common Skills
-    - Common Traits
-    - Dwarven Lifepaths
-    - Dwarven Traits
-    - Elven Lifepaths
-    - Elven Traits
-    - Human Lifepaths
-    - Melee Weapons
-    - Orcish Lifepaths
-    - Orc Traits
-    - Ranged Weapons
-2. Navigate to your Foundry install packs subfolder. For example: /home/foundry/foundrydata/Data/worlds/YourWorldHere/packs
-3. Replace the respective \*.db files there with the ones from this GitHub
-4. Fully restart your server; i.e. reloading your world is not enough, you must reboot your Foundry server.
+Installation is now available directly through Foundry VTT via the Manifest URL (explained in [Foundry Wiki](https://foundryvtt.wiki/en/basics/Modules)). The latest version is listed in ./archive, which is currently v0.1. The Manifest URL you should use is: https://raw.githubusercontent.com/PauloDeTiege/FoundryBWCompendium/master/module.json
 
 ## Current Status
 
 - Information from the Codex is not fully implemented.
 - Spells are not included.
+
+## Acknowledgements
+Thanks go to Agolp for working out how to install modules via Manifest URL.
