@@ -28,7 +28,7 @@
             "label": "Dwarven Lifepaths",
             "module": "foundry-bw-compendium",
             "path": "packs/dwarven-lifepaths.db",
-            "entity": "Item"
+            "entity": "Actor"
         },
         {
             "name": "dwarven-traits",
@@ -42,7 +42,7 @@
             "label": "Elven Lifepaths",
             "module": "foundry-bw-compendium",
             "path": "packs/elven-lifepaths.db",
-            "entity": "Item"
+            "entity": "Actor"
         },
         {
             "name": "elven-traits",
@@ -56,7 +56,7 @@
             "label": "Human Lifepaths",
             "module": "foundry-bw-compendium",
             "path": "packs/human-lifepaths.db",
-            "entity": "Item"
+            "entity": "Actor"
         },
         {
             "name": "melee-weapons",
@@ -70,7 +70,7 @@
             "label": "Orcish Lifepaths",
             "module": "foundry-bw-compendium",
             "path": "packs/orcish-lifepaths.db",
-            "entity": "Item"
+            "entity": "Actor"
         },
         {
             "name": "orc-traits",
