@@ -10,7 +10,7 @@ This is a set of Compendiums for Foundry Virtual Tabletop that are compatible wi
 
 **N.B. Always back up your files before making changes!**
 
-Installation is now available directly through Foundry VTT via the Manifest URL (explained in [Foundry Wiki](https://foundryvtt.wiki/en/basics/Modules)). The latest version is listed in ./archive, which is currently v0.1. The Manifest URL you should use is: https://raw.githubusercontent.com/PauloDeTiege/FoundryBWCompendium/master/module.json
+Installation is now available directly through Foundry VTT via the Manifest URL (explained in [Foundry Wiki](https://foundryvtt.wiki/en/basics/Modules)). The latest version is listed in ./archive, which is currently v0.1.11. The Manifest URL you should use is: https://raw.githubusercontent.com/PauloDeTiege/FoundryBWCompendium/master/module.json
 
 ## Current Status
 
