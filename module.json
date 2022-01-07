@@ -2,12 +2,25 @@
     "name": "foundry-bw-compendium",
     "title": "Foundry BW Compendium",
     "description": "A set of compendiums that are compatible with StarsTserk Burning Wheel Module",
-    "version": "0.1",
+    "version": "0.1.1",
+    "minimumCoreVersion": "0.5.5",
+    "compatibleCoreVersion": "9",
     "author": "PauloDeTiege",
+    "authors": [
+	    {
+		    "name": "Paulo De Tiège",
+		    "discord": "Mr. Coffee#6592",
+		    "reddit": "u/byronicgamer"
+	    }
+    ],
     "url": "https://github.com/PauloDeTiege/FoundryBWCompendium",
     "manifest": "https://raw.githubusercontent.com/PauloDeTiege/FoundryBWCompendium/master/module.json",
     "download": "https://github.com/PauloDeTiege/FoundryBWCompendium/archive/v0.1.zip",
-    "minimumCoreVersion": "0.5.5",
+    "bugs": "https://github.com/PauloDeTiege/FoundryBWCompendium/issues",
+    "readme": "https://github.com/PaulODeTiege/FoundryBWCompendium/README.md",
+    "flags": {
+	    "allowBugReporter": true
+    }
     "packs": [
         {
             "name": "common-skills",
