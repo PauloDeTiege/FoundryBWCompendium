@@ -22,9 +22,9 @@
     },
     "systems": ["burningwheel"],
     "author": "PauloDeTiege",
-    "url": "https://github.com/agolp/FoundryBWCompendium",
+    "url": "https://github.com/PauloDeTiege/FoundryBWCompendium",
     "manifest": "https://raw.githubusercontent.com/agolp/FoundryBWCompendium/master/module.json",
-    "download": "https://github.com/agolp/FoundryBWCompendium/archive/v0.1.12.zip",
+    "download": "https://github.com/PauloDeTiege/FoundryBWCompendium/archive/v0.1.12.zip",
     "bugs": "https://github.com/PauloDeTiege/FoundryBWCompendium/issues",
     "readme": "https://github.com/PauloDeTiege/FoundryBWCompendium/README.md",
     "packs": [
