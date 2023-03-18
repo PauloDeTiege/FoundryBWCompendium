@@ -3,7 +3,7 @@
     "name": "foundry-bw-compendium",
     "title": "Foundry BW Compendium",
     "description": "A set of compendiums that are compatible with StarsTserk Burning Wheel Module",
-    "version": "0.1.12",
+    "version": "0.1.13",
     "minimumCoreVersion": "0.5.5",
     "compatibleCoreVersion": "9",
     "compatibility": {
@@ -11,20 +11,24 @@
         "verified": "10.291"
     },
     "relationships": {
-        "systems": [{
-            "id": "burningwheel",
-            "type": "system",
-            "manifest": "https://github.com/StasTserk/foundry-burningwheel/blob/master/system.json",
-            "compatibility": {
-                "verified": "1.3.1"
+        "systems": [
+            {
+                "id": "burningwheel",
+                "type": "system",
+                "manifest": "https://github.com/StasTserk/foundry-burningwheel/blob/master/system.json",
+                "compatibility": {
+                    "verified": "1.3.1"
+                }
             }
-        }]
+        ]
     },
-    "systems": ["burningwheel"],
+    "systems": [
+        "burningwheel"
+    ],
     "author": "PauloDeTiege",
     "url": "https://github.com/PauloDeTiege/FoundryBWCompendium",
     "manifest": "https://raw.githubusercontent.com/PauloDeTiege/FoundryBWCompendium/master/module.json",
-    "download": "https://github.com/PauloDeTiege/FoundryBWCompendium/archive/v0.1.12.zip",
+    "download": "https://github.com/PauloDeTiege/FoundryBWCompendium/archive/v0.1.13.zip",
     "bugs": "https://github.com/PauloDeTiege/FoundryBWCompendium/issues",
     "readme": "https://github.com/PauloDeTiege/FoundryBWCompendium/README.md",
     "packs": [
@@ -114,6 +118,14 @@
             "module": "foundry-bw-compendium",
             "system": "burningwheel",
             "path": "packs/ranged-weapons.db",
+            "entity": "Item"
+        },
+        {
+            "name": "sorcery-spells",
+            "label": "Sorcery Spells",
+            "module": "foundry-bw-compendium",
+            "system": "burningwheel",
+            "path": "packs/sorcery-spells.db",
             "entity": "Item"
         }
     ]
