@@ -3,9 +3,9 @@
     "name": "foundry-bw-compendium",
     "title": "Foundry BW Compendium",
     "description": "A set of compendiums that are compatible with StarsTserk Burning Wheel Module",
-    "version": "0.1.13",
+    "version": "0.1.135",
     "minimumCoreVersion": "0.5.5",
-    "compatibleCoreVersion": "9",
+    "compatibleCoreVersion": "11",
     "compatibility": {
         "minimum": 9,
         "verified": "10.291"
@@ -17,7 +17,7 @@
                 "type": "system",
                 "manifest": "https://github.com/StasTserk/foundry-burningwheel/blob/master/system.json",
                 "compatibility": {
-                    "verified": "1.4.0"
+                    "verified": "1.4.2"
                 }
             }
         ]
