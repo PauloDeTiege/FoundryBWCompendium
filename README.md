@@ -12,6 +12,8 @@ This is a set of Compendiums for Foundry Virtual Tabletop that are compatible wi
 
 Installation is now available directly through Foundry VTT via the Manifest URL (explained in [Foundry Wiki](https://foundryvtt.wiki/en/basics/Modules)). The Manifest URL you should use is: https://raw.githubusercontent.com/PauloDeTiege/FoundryBWCompendium/master/module.json
 
+Please note that as of V11, you'll have to go to config settings on the right-hand panel, select "Manage modules", and then check "Foundry BW Compendium" and save. It'll reload the game world, and then everything should be available.
+
 ## Current Status
 
 - Some elements from the BWG book are not included, such as Spell Songs and Sorcery Spells;
